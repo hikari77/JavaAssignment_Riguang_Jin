@@ -4,3 +4,4 @@
 *.iml
 *.ipr
 /.idea/
+/hibernate-1-4/target/
